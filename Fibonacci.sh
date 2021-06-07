@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/sh
 
 n=$1  # Input to print number of first 'n' prime numbers
 a=0   # First Number of the Fibonacci Series
